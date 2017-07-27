@@ -7,4 +7,9 @@ sedfegtvw3rdv
 dsgs 
 一半
 完成
+<<<<<<< HEAD
 master里面新增的代码
+=======
+(一半)
+(完成)
+>>>>>>> dev
